@@ -5,63 +5,6 @@
 include 'partials/header.php';
 ?>
 
-<div class="container-fluid p-2 d-flex justify-content-between align-items-center" style="background-color: #08021f;">
-
-  <!-- Social media icons/links in reverse order -->
-  <div class="d-flex align-items-center">
-    <a href="#" class="text-white mx-2"><i class="bi bi-linkedin" style="font-size:large"></i></a>
-    <a href="#" class="text-white mx-2"><i class="bi bi-facebook" style="font-size:large"></i></a>
-    <a href="#" class="text-white mx-2"><i class="bi bi-twitter" style="font-size:large"></i></a>
-    <a href="#" class="text-white mx-2"><i class="bi bi-instagram" style="font-size:large"></i></a>
-    <!-- Add more social media icons/links as needed in reverse order -->
-  </div>
-
-  <div class="d-flex me-5">
-
-    <a href="#mozilla-section" class="btn btn-primary p-2 me-2 ">Mozilla Challenge</a>
-    <a href="#mozilla-section" class="btn btn-light p-2">Sign Up</a>
-
-
-  </div>
-</div>
-
-
-
-
-
-<nav class="navbar navbar-expand-lg shadow-sm " style="background-color:;height:;">
-  <div class="container-fluid ">
-    <a class="navbar-brand display fw-bold" style="font-size: 32px;" href="">
-      <img src="../assets/images/Corporate Tech Computer Logo.PNG" alt="Avatar Logo" style="width:180px;height: 55px;" class=" me-2">
-    </a>
-    <span class="fw-bold" style="font-family: ;">Responsible Computing in Action</span>
-
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarCollapse">
-
-      <ul class="navbar-nav ms-auto text-center mt-2 mt-lg-0 forumnavbarlist me-5 mr-5">
-        <li class="nav-item">
-          <a class="nav-link  p-2 fw-bold" href="index.php" style="font-size:1.2rem">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link p-2 fw-bold" href="" style="font-size:1.2rem">Blogs</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link  p-2 fw-bold" href="events.php" style="font-size:1.2rem">Events</a>
-        </li>
-
-        <li class="nav-item ">
-          <a class="nav-link p-2 fw-bold" href="" style="font-size:1.2rem">Contacts</a>
-        </li>
-      </ul>
-
-    </div>
-  </div>
-</nav>
-
 <!-- welcome -->
 <div class="container-fluid video-container welcome-div p-5 mt-1 text-white text-center shadow justify-content-center" style="margin-top:; position: relative;height:auto">
   <video src="../assets/videos/planet.mp4" autoplay loop muted style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
