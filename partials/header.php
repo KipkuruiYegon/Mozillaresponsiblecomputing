@@ -64,14 +64,14 @@
                         <a class="nav-link p-2 fw-bold" href="index.php" style="font-size: 1.2rem">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link p-2 fw-bold" href="" style="font-size: 1.2rem">Blogs</a>
+                        <a class="nav-link p-2 fw-bold" href="blogs.php" style="font-size: 1.2rem">Blogs</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link p-2 fw-bold" href="events.php" style="font-size: 1.2rem">Events</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link p-2 fw-bold" href="" style="font-size: 1.2rem">Resources</a>
+                        <a class="nav-link p-2 fw-bold" href="resources.php" style="font-size: 1.2rem">Resources</a>
                     </li>
 
                     <li class="nav-item">
