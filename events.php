@@ -3,9 +3,9 @@
 include 'partials/header.php';
 ?>
 
-<div class="container-fluid mb-4">
+<div class="events-sec container-fluid mb-4">
     <div class="container  mb-5">
-        <h3 class="fw-bold mb-3 mt-5" style="font-family: Fugit;text-decoration:;">The Mozilla Responsible Computing Stakeholder Forum, June 2023</h3>
+        <h3 class="fw-bold mb-3 mt-5">The Mozilla Responsible Computing Stakeholder Forum, June 2023</h3>
 
         <p>
             The Mozilla Responsible Computing Stakeholder forum was held at DeKUT Nairobi Campus. The forum focused on training internal stakeholders on the Mozilla Responsible Computing project and the status of implementation, the strengths and common challenges in teaching Responsible Computing in computing and the application of Ethics Assessment tools,outlining the best practices for implementing Responsible Computing knowledge and tools, <i>Craig Newmark Mozilla Omidyar Network USAID Kenya</i>
@@ -24,12 +24,12 @@ include 'partials/header.php';
             <div class="col-12 col-md-4">
                 <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc4.jpg" alt="Image 4">
             </div>
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-4 ">
                 <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc5.jpg" alt="Image 5">
             </div>
 
-            <div class="col-12 col-md-12 text-justify border-top">
-                <p>The School of Computer Science and Information Technology won a one year-long project with a grant amount of $25,000, titled: "Mainstreaming Ethics Risk in Computer Programming," which seeks to integrate ethics and responsible computing into the teaching. The project aims to provide an opportunity for computer science students to learn and adhere to the fundamental principles of ethical and responsible computing to contribute towards a responsible computing community. <i>Mozilla USAID Kenya</i></p>
+            <div class="col-12 col-md-12 text-justify border-top mt-5">
+                <p class="mt-3">The School of Computer Science and Information Technology won a one year-long project with a grant amount of $25,000, titled: "Mainstreaming Ethics Risk in Computer Programming," which seeks to integrate ethics and responsible computing into the teaching. The project aims to provide an opportunity for computer science students to learn and adhere to the fundamental principles of ethical and responsible computing to contribute towards a responsible computing community. <i>Mozilla USAID Kenya</i></p>
             </div>
             <div class="col-12 col-md-4">
                 <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc6.jpg" alt="Image 6">

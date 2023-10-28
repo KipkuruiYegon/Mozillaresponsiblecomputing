@@ -3,7 +3,7 @@
 include 'partials/header.php';
 ?>
 
-<div class="container-fluid mb-5">
+<div class="container-fluid mb-5 oop">
     <div class="container">
         <div class="img img-fluid d-flex align-items-center mt-5 border-bottom mb-3 p-2">
             <img class="dedan-img img-fluid" src="assets/images/dedanlogo-removebg-preview.png" style="max-width: 100px; margin-right: 20px;">
