@@ -239,10 +239,10 @@
                         <a class="nav-link" href="events.php">Events</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="responsiblecomputingclub.php">R.Computing-Club</a>
+                        <a class="nav-link" href="responsiblecomputingclub.php">RC-Club</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="grain.php">GRAIN</a>
+                        <a target="_blank" class="nav-link" href="grain.php">GRAIN</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="resources.php">Resources</a>
