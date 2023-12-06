@@ -19,8 +19,8 @@ include 'partials/header.php';
 
 
 
-<div class="container-fluid ">
-  <div class=" exploring container mt-5 mb-5">
+<div class="container-fluid mt-5 mb-5" style="">
+  <div class=" exploring container ">
     <div class="row">
       <div class="exploring-content col-md-6">
         <h2 class="text-center fw-bold">Exploring Responsible Computing Initiatives</h2>
@@ -29,7 +29,7 @@ include 'partials/header.php';
         </p>
       </div>
       <div class="col-md-6">
-        <img src="assets/images/chairglobe-min.png" alt="Image" class=" img-fluid ">
+        <img src="assets/images/school2.jpg" alt="Image" class=" img-fluid " style="object-fit: cover; width: 100%; height: 350px;border-radius:8px;">
       </div>
     </div>
   </div>
@@ -40,7 +40,7 @@ include 'partials/header.php';
   <div class="container mission d-flex align-items-center mb-5">
     <div class="row">
       <div class="col-md-6 mt-5 mb-5">
-        <img src="assets/images/groupbudy.png" alt="Image" class="buddies rounded img-fluid mb-3">
+        <img src="assets/images/school.jpg" alt="Image" class=" img-fluid " style="object-fit: cover; width: 100%; height: 350px; border-radius:8px;">
       </div>
 
       <div class="col-md-6 mission-div mt-5">
@@ -80,7 +80,7 @@ include 'partials/header.php';
 
 <!-- Mozilla Challenge Section -->
 <section id="mozilla-section">
-  <div class="container-fluid bg-light">
+  <div class="container-fluid bg-light" style="padding-bottom:50px;">
     <div class="container">
       <div class="col-md-8 mx-auto">
         <h2 class="text-center fw-bold text-decoration-underline mt-4 challenge-title">Mozilla Challenge</h2>
