@@ -11,7 +11,7 @@ include 'partials/header.php';
         <hr>
         <div class="row col-md-12 d-flex justify-content-between mb-5 mt-5 ">
             <div class="col-md-4" style="">
-                <img src="assets/images/blog1.jpg" class="rounded img-fluid">
+                <img src="assets/images/blog1.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
             </div>
             <div class="col-md-8">
 
@@ -34,7 +34,7 @@ include 'partials/header.php';
         </div>
         <div class="row col-md-12 d-flex justify-content-between mb-5 " style="padding-top:20px;">
             <div class="col-md-4">
-                <img src="assets/images/blog2.jpg" class="rounded img-fluid">
+                <img src="assets/images/blog2.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
             </div>
 
 
@@ -61,7 +61,7 @@ include 'partials/header.php';
 
         <div class="row col-md-12 d-flex justify-content-between mb-5 " style="padding-top:20px;">
             <div class="col-md-4">
-                <img src="assets/images/blog6.jpg" class="rounded img-fluid">
+                <img src="assets/images/blog6.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
             </div>
 
 
@@ -88,7 +88,7 @@ include 'partials/header.php';
         </div>
         <div class="row col-md-12 d-flex justify-content-between mb-5 " style="padding-top:20px;">
             <div class="col-md-4">
-                <img src="assets/images/blog3.jpg" class="rounded img-fluid">
+                <img src="assets/images/blog3.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
             </div>
 
 
@@ -110,7 +110,7 @@ include 'partials/header.php';
         </div>
         <div class="row col-md-12 d-flex justify-content-between mb-5 " style="padding-top:20px;">
             <div class="col-md-4">
-                <img src="assets/images/blog4.jpg" class="rounded img-fluid">
+                <img src="assets/images/blog4.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
             </div>
 
 
@@ -136,7 +136,7 @@ include 'partials/header.php';
 
         <div class="row col-md-12 d-flex justify-content-between mb-5 " style="padding-top:20px;">
             <div class="col-md-4">
-                <img src="assets/images/blog5.jpg" class="rounded img-fluid">
+                <img src="assets/images/blog5.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
             </div>
 
 
