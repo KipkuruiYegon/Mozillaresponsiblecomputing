@@ -3,61 +3,35 @@
 include 'partials/header.php';
 ?>
 
-<div class="events-sec container-fluid mb-4">
-    <div class="container  mb-5">
-        <h3 class="fw-bold mb-3 mt-5">The Mozilla Responsible Computing Stakeholder Forum, June 2023</h3>
-
-        <p>
-            The Mozilla Responsible Computing Stakeholder forum was held at DeKUT Nairobi Campus. The forum focused on training internal stakeholders on the Mozilla Responsible Computing project and the status of implementation, the strengths and common challenges in teaching Responsible Computing in computing and the application of Ethics Assessment tools,outlining the best practices for implementing Responsible Computing knowledge and tools, <i>Craig Newmark Mozilla Omidyar Network USAID Kenya</i>
-        </p>
-        <div class="align-items-center row row-cols-1 row-cols-md-3 g-3 mt-3">
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc1.jpg" alt="Image 1">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc2.jpg" alt="Image 2">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc3.jpg" alt="Image 3">
+<div class="events-sec container-fluid mb-4 mt-5">
+    <div class="container mb-5">
+        <h2 class="mb-2">Latest Events</h2>
+        <div class="row">
+            <div class="col-md-6 col-lg-4 mb-4 ">
+                <div class="card bg-light">
+                    <img src="assets/images/events/THE RC BOOT CAMP FREEDOM HALL/IMG-20240302-WA0066.jpg" class="card-img-top" alt="..." style="height: 200px; width: auto; object-fit: cover;">
+                    <div class="card-body">
+                        <p class="fw-bold bg-warning p-2 ">Latest - March 2024</p>
+                        <h5 class="card-title fw-bold">The Responsible Computing BootCamp Held at DeKUT Freedom Hall</h5>
+                        <p class="card-text">In the two Bootcamps hosted by the School of Computer Science and IT at Dedan Kimathi...</p>
+                        <a href="RCBootcamp2024.php" class="btn btn-secondary">Read More</a>
+                    </div>
+                </div>
             </div>
 
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc4.jpg" alt="Image 4">
-            </div>
-            <div class="col-12 col-md-4 ">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc5.jpg" alt="Image 5">
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card bg-light">
+                    <img src="assets/images/events/Responsible Computing/rc1.jpg" class="card-img-top" alt="..." style="height: 200px; width: auto; object-fit: cover;">
+                    <div class="card-body">
+                        <p class="text-black fw-bold bg-warning p-2">June 2023</p>
+                        <h5 class="card-title fw-bold"> The Mozilla Responsible Computing Stakeholder Forum, June 2023</h5>
+                        <p class="card-text">The Mozilla Responsible Computing Stakeholder forum was held at DeKUT Nairobi Campus...</p>
+                        <a href="MozillaRCStakeholderForum.php" class="btn btn-secondary">Read More</a>
+                    </div>
+                </div>
             </div>
 
-            <div class="col-12 col-md-12 text-justify border-top mt-5">
-                <p class="mt-3">The School of Computer Science and Information Technology won a one year-long project with a grant amount of $25,000, titled: "Mainstreaming Ethics Risk in Computer Programming," which seeks to integrate ethics and responsible computing into the teaching. The project aims to provide an opportunity for computer science students to learn and adhere to the fundamental principles of ethical and responsible computing to contribute towards a responsible computing community. <i>Mozilla USAID Kenya</i></p>
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc6.jpg" alt="Image 6">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc7.jpg" alt="Image 7">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc8.jpg" alt="Image 8">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc9.jpg" alt="Image 9">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc10.jpg" alt="Image 10">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc11.jpg" alt="Image 11">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc12.jpg" alt="Image 12">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc13.jpg" alt="Image 13">
-            </div>
-            <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/Responsible Computing/rc14.jpg" alt="Image 14">
-            </div>
+
         </div>
     </div>
 </div>
