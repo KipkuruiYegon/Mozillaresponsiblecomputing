@@ -5,7 +5,8 @@ include 'partials/header.php';
 
 <div class="events-sec container-fluid mb-4 mt-5">
     <div class="container mb-5">
-        <h2 class="mb-2">Latest Events</h2>
+        <h2 class="mb-3 mt-2">Latest Events</h2>
+
         <div class="row">
             <div class="col-md-6 col-lg-4 mb-4 ">
                 <div class="card bg-light">
@@ -33,6 +34,7 @@ include 'partials/header.php';
 
 
         </div>
+        <hr>
     </div>
 </div>
 

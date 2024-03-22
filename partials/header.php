@@ -282,6 +282,10 @@
                         <a class="nav-link" href="responsiblecomputingclub.php#careers">Careers</a>
                     </li>
 
+                    <li class="nav-item">
+                        <a class="nav-link" href="">Mentorship</a>
+                    </li>
+
                     <li class="nav-item ">
                         <a href="index.php#mozilla-section" class=" mozilla-btn nav-link">Mozilla-Challenge</a>
                     </li>
