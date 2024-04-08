@@ -110,6 +110,7 @@ include 'partials/header.php';
                 </p>
 
 
+                <hr>
 
                 <strong>DeKUT RC Project | (Send feedback to rc@dkut.ac.ke)</strong>
             </div>

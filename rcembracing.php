@@ -83,6 +83,8 @@ include 'partials/header.php';
 
 
 
+                <hr>
+
 
                 <strong class="">DeKUT RC Project | (Send feedback to rc@dkut.ac.ke)</strong>
             </div>

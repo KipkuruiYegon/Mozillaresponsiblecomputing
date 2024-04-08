@@ -235,6 +235,8 @@ include 'partials/header.php';
                     to enhance the tool.
                 </p>
 
+                <hr>
+
                 <strong>DeKUT RC Project | (Send feedback to rc@dkut.ac.ke)</strong>
             </div>
 

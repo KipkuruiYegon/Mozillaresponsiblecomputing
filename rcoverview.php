@@ -210,6 +210,7 @@ include 'partials/header.php';
                     technology, and it underscores the ongoing commitment of various stakeholders to create a more
                     responsible and ethical technology ecosystem.
                 </p>
+                <hr>
 
                 <strong>DeKUT RC Project | (Send feedback to rc@dkut.ac.ke)</strong>
             </div>

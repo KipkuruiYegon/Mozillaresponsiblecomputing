@@ -95,6 +95,14 @@
 
     }
 
+    .readmore {
+        background-color: #051044;
+        color: white;
+        border-radius: 5px;
+        border: 1px solid yellow;
+
+    }
+
     .mozilla-btn:hover {
         background-color: yellow;
         border-radius: 5px;

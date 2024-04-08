@@ -12,6 +12,79 @@ include 'partials/header.php';
 
         <div class="row col-md-12 d-flex justify-content-between mb-3" style="padding-top:20px;">
             <div class="col-md-4">
+                <img src="assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.37.00 PMcover.JPEG" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
+            </div>
+
+
+            <div class="col-md-8 ">
+                <p>April 2024 | Guest Speaker </p>
+                <h2 class="" style="font-size:25px;">Responsible Computing & its Practical Application in
+                    <u>Building Fintech Solutions at FLEXPAY</u>
+                </h2>
+
+                <p>The second guest speaker session on responsible computing took place at Dedan
+                    Kimathi University of Technology, focusing on the practical application of responsible
+                    computing principles in building fintech solutions. The session was attended by second-year
+                    students enrolled in the Object-Oriented Programming (OOP) unit. The guest speaker, the Co-
+                    Founder/CTO of FLEXPAY, provided insights into ensuring responsible computing in
+                    conceptualizing fintech problems and developing solutions that comply with ....</p>
+                <a href="rcpracticalimplementationFLEXPAY.php" target="" class=" blog-btn btn btn-success">Read More</a>
+
+
+
+            </div>
+            <hr class="mt-5">
+        </div>
+
+        <div class="row col-md-12 d-flex justify-content-between mb-3" style="padding-top:20px;">
+            <div class="col-md-4">
+                <img src="assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123215_516.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
+            </div>
+
+
+            <div class="col-md-8 ">
+                <p>April 2024 | Guest Speaker </p>
+                <h2 class="" style="font-size:25px;">Responsible Computing & Its Practical
+                    Implementation at the <u>Independent Electoral and Boundaries Commission (IEBC)</u>
+                </h2>
+
+                <p>The guest speaker session on responsible computing and its practical implementation at the Independent Electoral and Boundaries Commission (IEBC) was held in the Computer Science and IT computer laboratory at Dedan Kimathi University of Technology. The session aimed to provide students with insights into the ethical considerations and responsible practices essential in the everyday activities of the organization.
+                    The guest speaker outlined the objectives of ....</p>
+                <a href="rcpracticalimplementationIEBC.php" target="" class=" blog-btn btn btn-success">Read More</a>
+
+
+
+            </div>
+            <hr class="mt-5">
+        </div>
+
+        <div class="row col-md-12 d-flex justify-content-between mb-3" style="padding-top:20px;">
+            <div class="col-md-4">
+                <img src="assets/images/events/2nd Internal SH/DAY1/20240327_114859.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
+            </div>
+
+
+            <div class="col-md-8 ">
+                <p>April 2024 | Responsible Computing</p>
+                <h2 class="" style="font-size:25px;">The 2<sup>nd</sup> Internal Stakeholders Meeting
+                </h2>
+
+                <p>The internal stakeholders meeting for the Responsible Computing (RC) project at Dedan Kimathi University of
+                    Technology served as a pivotal platform for fostering collaboration, dialogue, and reflection on the integration of
+                    responsible computing principles into academic curricula and professional practice. Led by the Dean of the School of
+                    Computer Science & Information Technology, the meeting brought together faculty members, students, and industry
+                    experts to discuss key issues related to responsible computing, ethics, and their implications for
+                    education and practice in the field of computer science. Throughout the meeting ....</p>
+                <a href="2ndInternalStakeholdersMeeting.php" target="" class=" blog-btn btn btn-success">Read More</a>
+
+
+
+            </div>
+            <hr class="mt-5">
+        </div>
+
+        <div class="row col-md-12 d-flex justify-content-between mb-3" style="padding-top:20px;">
+            <div class="col-md-4">
                 <img src="assets/images/events/THE RC BOOT CAMP FREEDOM HALL/IMG-20240302-WA0066.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
             </div>
 
@@ -98,7 +171,11 @@ include 'partials/header.php';
 
                 <p>
                     In the Responsible Computing framework, sustainable enterprises emerge to meet the
-                    environmental imperative. With Responsible Computing guidance, your organization will...
+                    environmental imperative. With Responsible Computing guidance, your organization will 1.Integrate your digital transformation and environmental sustainability strategies and efforts.
+                    2. Use emerging technologies as a catalyst for developing smart and innovative solutions to environmental challenges
+                    3. Transform business processes into green intelligent workflows.
+                    4. Infuse environmental sustainability into your enterprise experiences and culture.
+                    5. Become an enabler and facilitator of change.....
                 </p>
                 <a href="rcframework.php" target="" class=" blog-btn btn btn-success">Read More</a>
 
@@ -127,7 +204,7 @@ include 'partials/header.php';
                     The rapid development of new technologies has raised a number of ethical concerns,
                     such as the potential for these technologies to be used for malicious purposes, to
                     violate privacy, or to create social divides. In order to address these concerns, it is
-                    important to develop responsible computing...
+                    important to develop responsible computing practices that ensure that technology is used in a way that is beneficial to society....
                 </p>
                 <a href="rcassessingrcandethicsinsoftware.php" target="" class=" blog-btn btn btn-success">Read More</a>
 
@@ -154,8 +231,7 @@ include 'partials/header.php';
                     at least, there was a unanimous supposition that being responsible is a virtue of life that an
                     individual ought to practice right from the early ages of cognitive development. In fact,
                     Erickson’s early theory of human growth and development posit that by the age of 3 years,
-                    children start developing a sense of purpose, initiative, guilty and egocentricism that inform their
-                    perception of the world...</p>
+                    children start developing...</p>
                 <a href="rcprivatesectorview.php" target="" class=" blog-btn btn btn-success">Read More</a>
 
 

@@ -106,6 +106,8 @@ include 'partials/header.php';
                 <p class="fw-bold">9.4. Conclusion</p>
                 <p>The Boot Camps successfully achieved their objectives by providing participants with a comprehensive understanding of OOP design principles and practical experience in responsible computing. The hands-on coding sessions, group discussions, and peer reviews contributed to a dynamic learning environment. The emphasis on collaboration and ethical considerations reinforced the importance of holistic development practices in the ever-evolving field of computing. The participants were advised to continue working on the projects as this can bring new opportunities.</p>
 
+                <hr>
+
                 <strong>DeKUT RC Project | (Send feedback to rc@dkut.ac.ke)</strong>
             </div>
 

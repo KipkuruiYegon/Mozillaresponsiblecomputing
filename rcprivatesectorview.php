@@ -89,6 +89,7 @@ include 'partials/header.php';
                     ethical and RC computing concepts in our programs across all the units.
                 </p>
 
+                <hr>
 
                 <strong>DeKUT RC Project | (Send feedback to rc@dkut.ac.ke)</strong>
             </div>
