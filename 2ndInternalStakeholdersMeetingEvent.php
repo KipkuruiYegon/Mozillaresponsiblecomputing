@@ -5,7 +5,7 @@ include 'partials/header.php';
 
 <div class="events-sec container-fluid mb-4">
     <div class="container mb-5">
-        <p class="fw-bold mb-5 border-bottom mt-5">Home | Events | RC Boot Camp | April 2024</p>
+        <p class="fw-bold mb-5 border-bottom mt-5">Home | Events | The 2<sup>nd</sup> Internal Stakeholders Meeting | March 2024</p>
         <h3 class="fw-bold mb-3 mt-5">
             The 2<sup>nd</sup> Internal Stakeholders Meeting: Responsible Computing Project Feedback Session</h3>
         <p>The 2<sup>nd</sup> Internal Stakeholders Meeting for the Responsible Computing (RC) project convened at Dedan Kimathi University of Technology, fostering collaboration and dialogue among faculty members, students, and industry experts. Led by the Dean of the School of Computer Science & Information Technology, the meeting aimed to integrate responsible computing principles into academic curricula and professional practice</p>

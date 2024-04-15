@@ -13,8 +13,8 @@ include 'partials/header.php';
             </div>
 
             <div class="col-md-9">
-                <p class="mt-3">April 2024 | Responsible Computing</p>
-                <h2 class="mt-1 fw-bold">Report on the 2nd Internal Stakeholders Meeting</h2>
+                <p class="mt-3">March 2024 | Responsible Computing</p>
+                <h2 class="mt-1 fw-bold">Report on the 2<sup>nd</sup> Internal Stakeholders Meeting</h2>
 
                 <h3 class="mt-3 mb-3">Responsible Computing Project Feedback Session</h3>
                 <p class="fw-bold"> <u>EXECUTIVE SUMMARY</u></p>

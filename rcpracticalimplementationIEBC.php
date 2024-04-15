@@ -5,15 +5,15 @@ include 'partials/header.php';
 
 <div class="grain container-fluid">
     <div class="container mt-5 mb-5">
-        <p class="fw-bold mb-5 border-bottom mt-5">Home | Blog | Article | April 2024</p>
+        <p class="fw-bold mb-5 border-bottom mt-5">Home | Blog | Article | March 2024</p>
 
         <div class="row col-12 d-flex justify-content-center align-items-center">
             <div class="col-md-9">
-                <img src="assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_122958_532cover.jpg" class="img-fluid" style="object-fit: cover; width: 100%; height: 200px;">
+                <img src="assets/images/events/RC Applications Guest/GUEST1/IMG_20231011_122958_532cover.jpg" class="img-fluid" style="object-fit: cover; width: 100%; height: 200px;">
             </div>
 
             <div class="col-md-9">
-                <p class="mt-3">April 2024 | Guest Speaker</p>
+                <p class="mt-3">March 2024 | Guest Speaker</p>
                 <h2 class="mt-1 fw-bold">Report on Responsible Computing and Its Practical Implementation at the <u>Independent Electoral and Boundaries Commission (IEBC)</u></h2>
 
                 <h3 class="mt-3 mb-3">Guest Speaker Session</h3>

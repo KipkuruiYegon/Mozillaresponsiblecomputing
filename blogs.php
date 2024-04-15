@@ -12,12 +12,36 @@ include 'partials/header.php';
 
         <div class="row col-md-12 d-flex justify-content-between mb-3" style="padding-top:20px;">
             <div class="col-md-4">
-                <img src="assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.37.00 PMcover.JPEG" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
+                <img src="assets/images/events/2ndExternalSHF/DSC_0059.jpeg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
             </div>
 
 
             <div class="col-md-8 ">
-                <p>April 2024 | Guest Speaker </p>
+                <p>April 2024 | Responsible Computing </p>
+                <h2 class="" style="font-size:25px;">The 2<sup>nd</sup> External Stakeholder Forum
+                </h2>
+
+                <p>The stakeholders' forum on Responsible Computing (RC) at Dedan Kimathi University of Technology was a pivotal
+                    platform for discussing the integration of RC principles into computer science education. The forum aimed to
+                    assess progress and outcomes of the project. The RC project's core objectives included conducting research,
+                    developing assessment tools, integrating ethics teaching, and evaluating students' projects. Throughout the
+                    forum, stakeholders delved into various aspects, including faculty experiences, ....</p>
+                <a href="2ndExternalStakeHoldersForum.php" target="" class=" blog-btn btn btn-success">Read More</a>
+
+
+
+            </div>
+            <hr class="mt-5">
+        </div>
+
+        <div class="row col-md-12 d-flex justify-content-between mb-3" style="padding-top:20px;">
+            <div class="col-md-4">
+                <img src="assets/images/events/RC Applications Guest/GUEST2/Guestcover.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
+            </div>
+
+
+            <div class="col-md-8 ">
+                <p>March 2024 | Guest Speaker </p>
                 <h2 class="" style="font-size:25px;">Responsible Computing & its Practical Application in
                     <u>Building Fintech Solutions at FLEXPAY</u>
                 </h2>
@@ -38,12 +62,12 @@ include 'partials/header.php';
 
         <div class="row col-md-12 d-flex justify-content-between mb-3" style="padding-top:20px;">
             <div class="col-md-4">
-                <img src="assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123215_516.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
+                <img src="assets/images/events/RC Applications Guest/GUEST1/IMG_20231011_123215_516.jpg" class="rounded img-fluid" style="object-fit: cover; width: 100%; height: 300px;">
             </div>
 
 
             <div class="col-md-8 ">
-                <p>April 2024 | Guest Speaker </p>
+                <p>March 2024 | Guest Speaker </p>
                 <h2 class="" style="font-size:25px;">Responsible Computing & Its Practical
                     Implementation at the <u>Independent Electoral and Boundaries Commission (IEBC)</u>
                 </h2>
@@ -65,7 +89,7 @@ include 'partials/header.php';
 
 
             <div class="col-md-8 ">
-                <p>April 2024 | Responsible Computing</p>
+                <p>March 2024 | Responsible Computing</p>
                 <h2 class="" style="font-size:25px;">The 2<sup>nd</sup> Internal Stakeholders Meeting
                 </h2>
 

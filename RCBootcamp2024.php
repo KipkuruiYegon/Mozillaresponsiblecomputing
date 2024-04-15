@@ -6,7 +6,7 @@ include 'partials/header.php';
 <div class="events-sec container-fluid mb-4">
     <div class="container mb-5">
         <p class="fw-bold mb-5 border-bottom mt-5">Home | Events | RC Boot Camp | March 2024</p>
-        <h3 class="fw-bold mb-3 mt-5">RC Boot Camp held on 24th Feb and 2nd March - 2024</h3>
+        <h3 class="fw-bold mb-3 mt-5">RC Boot Camp held on 24<sup>th</sup> Feb and 2<sup>nd March - 2024</h3>
         <p>The RC Boot Camp held at Dedan Kimathi University of Technology (DEKUT) Freedom Hall was a dynamic learning experience focusing on Mastering OOP Design Principles and Responsible Computing (RC).</p>
         <p>Hosted by the School of Computer Science and IT, the boot camp engaged 71 students in practical exercises facilitated by a collaborative effort between six staff members. Thirteen groups showcased innovative solutions, emphasizing responsible computing principles and ethics.</p>
         <div class="align-items-center row row-cols-1 row-cols-md-3 g-3 mt-3">

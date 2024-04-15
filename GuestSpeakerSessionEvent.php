@@ -5,7 +5,7 @@ include 'partials/header.php';
 
 <div class="events-sec container-fluid mb-4">
     <div class="container mb-5">
-        <p class="fw-bold mb-5 border-bottom mt-5">Home | Events | RC Boot Camp | March 2024</p>
+        <p class="fw-bold mb-5 border-bottom mt-5">Home | Events | Guest Speaker Sessions | March 2024</p>
         <h2 class="fw-bold mb-3 mt-5">Guest Speaker Session 1: <u>Responsible Computing at IEBC</u></h2>
         <p>The guest speaker session on responsible computing at the Independent Electoral and Boundaries Commission (IEBC) provided students with valuable insights into the ethical considerations and responsible practices essential in electoral management.The session commenced with an overview of the IEBC's mandate and core values, highlighting the importance of responsible computing in maintaining fairness, transparency, and integrity in electoral processes.</p>
         <h3 class="fw-bold">Key Points:</h3>
@@ -16,19 +16,19 @@ include 'partials/header.php';
         <div class="align-items-center row row-cols-1 row-cols-md-3 g-3 mt-3">
             <!-- Add onclick events to open images in fullscreen -->
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_122958_532.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_122958_532.jpg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST1/IMG_20231011_122958_532.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_122958_532.jpg')">
             </div>
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123036_022.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123036_022.jpg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST1/IMG_20231011_123036_022.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123036_022.jpg')">
             </div>
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123154_953.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123154_953.jpg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST1/IMG_20231011_123154_953.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123154_953.jpg')">
             </div>
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123210_694.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123210_694.jpg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST1/IMG_20231011_123210_694.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123210_694.jpg')">
             </div>
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123215_516.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123215_516.jpg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST1/IMG_20231011_123215_516.jpg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST1/IMG_20231011_123215_516.jpg')">
             </div>
             <!-- Add more images as needed -->
         </div>
@@ -49,20 +49,20 @@ include 'partials/header.php';
         <div class="align-items-center row row-cols-1 row-cols-md-3 g-3 mt-3">
             <!-- Add onclick events to open images in fullscreen -->
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.29.55 PM (1).jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.29.55 PM (1).jpeg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST2/WhatsApp Image 2023-11-29 at 12.29.55 PM (1).jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.29.55 PM (1).jpeg')">
             </div>
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.29.55 PM.jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.29.55 PM.jpeg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST2/WhatsApp Image 2023-11-29 at 12.29.55 PM.jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.29.55 PM.jpeg')">
             </div>
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.37.00 PM.jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.37.00 PM.jpeg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST2/WhatsApp Image 2023-11-29 at 12.37.00 PM.jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.37.00 PM.jpeg')">
             </div>
 
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.41.57 PMcover.jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.41.57 PMcover.jpeg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST2/WhatsApp Image 2023-11-29 at 12.41.57 PMcover.jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.41.57 PMcover.jpeg')">
             </div>
             <div class="col-12 col-md-4">
-                <img class="img-fluid rounded" src="assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.50.41 PM.jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.50.41 PM.jpeg')">
+                <img class="img-fluid rounded" src="assets/images/events/RC Applications Guest/GUEST2/WhatsApp Image 2023-11-29 at 12.50.41 PM.jpeg" alt="Image" onclick="openFullscreen('assets/images/events/2nd Internal SH/GUEST2/WhatsApp Image 2023-11-29 at 12.50.41 PM.jpeg')">
             </div>
             <!-- Add more images as needed -->
         </div>

@@ -252,6 +252,25 @@
         font-size: 24px;
         cursor: pointer;
     }
+
+
+    .puzzle {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .piece {
+        flex: 1 1 30%;
+        /* Adjust the width of each piece */
+        margin: 5px;
+        /* Adjust the spacing between pieces */
+    }
+
+    .piece img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
 </style>
 
 <body>
